@@ -1,2 +1,2 @@
-# M²S²-SRNet
+# DCMArb
 The code will be coming soon
